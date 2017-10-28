@@ -1,0 +1,79 @@
+{
+  "questions": [ 
+       {
+           "question": "jQuery is free and open source.",
+           "answers": ["True", "False"],
+       	   "correctAnswer": 1
+       },
+       {
+           "question": "Which of the following type of variable is visible everywhere in your JavaScript code?",
+           "answers": ["global variable", "local variable","Both of the above","None of the above"],
+       	   "correctAnswer": 1
+       },
+       {
+           "question": "Which built-in method combines the text of two strings and returns a new string?",
+           "answers": ["append()", "concat()", "attach()", "None of the above."],
+       	   "correctAnswer": 2
+       },
+       {
+           "question": "Which of the following function of Array object sorts the elements of an array?",
+           "answers": ["toSource()", "sort()", "toString()", "unshift()"],
+       	   "correctAnswer": 2
+       },
+       {
+           "question": "What is JSON?",
+           "answers": ["Java Script Object Native", "Java Script Oriented Notation","Java Script Object Notation","None"],
+       	   "correctAnswer": 3
+       },
+       {
+           "question": "Java Source Code is compiled into?",
+           "answers": ["Source Code", ".obj", ".exe", "Bytecode"],
+       	   "correctAnswer": 4
+       },
+       {
+           "question": "Single line comment starts with _________ in Java.",
+           "answers": ["/**", "/*", "//", "None"],
+       	   "correctAnswer": 3
+       },
+       {
+           "question": "Which of the following primitive types can only have two possible values?",
+           "answers": ["byte", "char", "boolean", "short"],
+       	   "correctAnswer": 3
+       },
+       {
+           "question": "Which of the following is not a keyword in Java.?",
+           "answers": ["boolean", "finalize", "assests", "abstract"],
+       	   "correctAnswer": 2
+       },
+       {
+           "question": "Which of the following ends an infinite for loop?",
+           "answers": ["stop();", "end;", "break;", "exit();"],
+       	   "correctAnswer": 3
+       },
+       {
+           "question": "this keyword in java is used to ?",
+           "answers": ["refer to current class object.", "refer to static method of the class.", "refer to parent class object.", "refer to static variable of the class."],
+       	   "correctAnswer": 1
+       },
+       {
+           "question": "Can you make Constructor Final?",
+           "answers": ["Yes", "No"],
+       	   "correctAnswer": 2
+       },
+       {
+           "question": "Which of the following supports the concept of hierarchical classification?",
+           "answers": ["Polymorphism", "Encapsulation", "Abstraction", "Inheritance"],
+       	   "correctAnswer": 4
+       },
+       {
+           "question": "Which Keyword from the following is used to inherit properties from one class into another?",
+           "answers": ["extends", "subclasses", "native", "all of the mentioned"],
+       	   "correctAnswer": 1
+       },
+       {
+        "question": "Which of the following concept is often expressed by the phrase, ‘One interface, multiple methods’?",
+        "answers": ["Abstraction", "Polymorphism", "Inheritance", "Encapsulation"],
+           "correctAnswer": 2
+        }
+     ]
+ }
