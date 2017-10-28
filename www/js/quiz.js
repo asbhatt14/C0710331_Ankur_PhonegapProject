@@ -151,7 +151,8 @@ function isNumber(o) {
 
 function transaction_error(tx, error) {
     $('#busy').hide();
-    alert("transaction_error" + tx.message);
+  //  alert("transaction_error" + tx.message);
+    window.location = "quiz.html";
 }
 
 function populateDB_success() {
